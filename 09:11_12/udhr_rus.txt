@@ -1,9 +1,3 @@
-Universal Declaration of Human Rights - Russian
-© 1996 – 2009 The Office of the High Commissioner for Human Rights
-This plain text version prepared by the “UDHR in Unicode”
-project, https://www.unicode.org/udhr.
----
-
 Всеобщая декларация прав человека
       Принята и провозглашена резолюцией 217 А (III) Генеральной Ассамблеи от 10 декабря 1948 года.
    
